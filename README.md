@@ -5,4 +5,4 @@ to Coding for Journalists. You will be learning about git, Github, and the basic
 
 I am making an experimental change to this file to test out the wonders of version control.
 
-Making a change to test branches. 
+Hi, I'm making a change to test my version control system. 
